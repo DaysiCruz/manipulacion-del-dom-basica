@@ -1,2 +1,2 @@
-# Hyperblog
-Un blog increible para el curso de Git y GIthub de Platzi
+JavaScript Practico Basico
+Proyectos Basicos de JavaScript
