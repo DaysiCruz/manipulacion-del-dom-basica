@@ -1,2 +1,2 @@
 JavaScript Practico Basico
-Proyectos Basicos de JavaScript
+Proyectos Basicos de JavaScript 
