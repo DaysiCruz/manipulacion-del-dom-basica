@@ -16,3 +16,4 @@ function sumaInputValues(event) {
     pResult.innerText = 'Resultado: ' + sumaInputs;
 }
 
+
