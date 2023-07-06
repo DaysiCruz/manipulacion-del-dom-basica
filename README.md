@@ -1,2 +1,2 @@
 JavaScript Practico Basico
-Proyectos Basicos de JavaScript 
+Proyecto Basico de JavaScript  para el curso de JavaScript Practico de Platzi
